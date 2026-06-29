@@ -1,0 +1,33 @@
+{
+  "lead_id": "9c77b3795490c411",
+  "business_name": "Ambaji Bankers Jewellery",
+  "brand_primary": "Ambaji Bankers",
+  "brand_secondary": "Jewellery",
+  "raw_business_name": "Ambaji Bankers,jewellery",
+  "category": "jewellery",
+  "phone_display": "98417 53758",
+  "phone_wa": "919841753758",
+  "address": "Puzhuthivakkam, Madipakkam, Chennai, Tamil Nadu 600091",
+  "locality": "Madipakkam",
+  "city": "Chennai",
+  "pincode": "600091",
+  "rating": "4.6",
+  "brand_initials": "AB",
+  "google_search_term": "jewellery shop Madipakkam, Chennai",
+  "recommended_use_cases": "appointment booking, catalog sharing, customer follow-up",
+  "headline_points": [
+    "Gold, bridal, diamond and silver collections",
+    "Shop address, phone and Google location",
+    "WhatsApp button for customer enquiries",
+    "Visit booking form for wedding and festival buyers"
+  ],
+  "value_line": "Customers searching for jewellery in Madipakkam can see your collections online and send enquiries directly to your WhatsApp.",
+  "demo_repo": "jwellery-demo",
+  "product": {
+    "name": "Business Website + WhatsApp Enquiry",
+    "setup_price": "Rs.4,999 one-time",
+    "monthly_price": "Rs.499/month",
+    "evolve_whatsapp": "917358006064",
+    "website": "www.evolverobotlab.com"
+  }
+}
