@@ -219,6 +219,10 @@ button {
   display: none;
 }
 
+.mobile-menu:not([hidden]) {
+  display: grid;
+}
+
 .section-inner {
   width: min(var(--max), calc(100% - 40px));
   margin: 0 auto;
@@ -688,7 +692,7 @@ button {
     display: block;
   }
 
-  .mobile-menu {
+  .mobile-menu:not([hidden]) {
     position: fixed;
     inset: 116px 14px auto;
     display: grid;
@@ -698,6 +702,7 @@ button {
     border-radius: 8px;
     background: var(--maroon-900);
     box-shadow: var(--shadow);
+    z-index: 60;
   }
 
   .mobile-menu a {
@@ -736,7 +741,7 @@ button {
     width: calc(100% - 28px);
   }
 
-  .mobile-menu {
+  .mobile-menu:not([hidden]) {
     inset: 82px 12px auto;
   }
 
